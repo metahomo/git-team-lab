@@ -1,0 +1,31 @@
+# [타입]: 제목 (50자 이내, 마침표 생략, 명령형) 로컬환경
+# 예: feat: 소셜 로그인 기능 추가
+
+# --- 본문(선택/필요 시 작성)---
+# 무엇을, 왜 변경했는지 작성한다
+# 어떻게 보다는 변경 이유와 영향을 집중한다
+# 2자 이내로 작성한다
+
+# --- 꼬리말 (Footer) ---
+# 연관된 이슈 트래거  ID나 해결 여부를 명시한다
+# 예 : resoulves : #51cf66 #ffd43b #f03e3e
+
+# ---[Type 목록] ---
+# feat      새로운 기능
+# bugfix    버그x 수정
+# docs      문서 작업
+# style     코드 포맷팅, 코드 로직 변경이 없어야 한다
+# refactor  코드 리팩토링 (기능 변경이 없어야 함)
+# test      테스트 코드 추가 또는 수정
+# chore     빌드 업무 수정, 패키지 매니저 설정 등
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes not staged for commit:
+#	deleted:    README.md
+#
+# Untracked files:
+#	.gitmessage.tet
